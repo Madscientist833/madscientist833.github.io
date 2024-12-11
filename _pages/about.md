@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a 4th-year undergraduate student at Peking University, where I’m majoring in Artificial Intelligence at [School of EECS](https://github.com/). I am very fortunate to be advised by Prof. Yi Bu at Peking University. During My exchange at University of British Columbia, I was fotunate to be advised by Prof. Renjie Liao at DSL lab.
+I’m a 4th-year undergraduate student at Peking University, where I’m majoring in Artificial Intelligence at School of EECS. I am very fortunate to be advised by [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu) at Peking University. During My exchange at the University of British Columbia, I was fotunate to be advised by [Prof. Renjie Liao](https://lrjconan.github.io/index.html) at [DSL lab](https://dsl-lab.github.io/).
 
 My Research Interest includes, Multimodal learning, Video generation& understanding, and Computer Vision. I'm also interested in their transformative applications in real life like healthcare. My vision is to harness the potential of multimodal AI to create solutions that address critical challenges in healthcare, environmental monitoring, and scientific discovery and so on.
 
