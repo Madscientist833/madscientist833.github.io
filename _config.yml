@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Youran Qu"
 description              : &description "Senior undergraduate at PKU"
 url                      : https://madscientist833.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/site" # the subpath of your site, e.g. "/blog"
 repository               : "Madscientist833/site"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
