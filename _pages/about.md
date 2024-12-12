@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /site
+  - /site/
+  - /site.html
 ---
 
 I’m a 4th-year undergraduate student at Peking University, where I’m majoring in Artificial Intelligence at School of EECS. I am very fortunate to be advised by [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu) at Peking University. During My exchange at the University of British Columbia, I was fotunate to be advised by [Prof. Renjie Liao](https://lrjconan.github.io/index.html) at [DSL lab](https://dsl-lab.github.io/).
