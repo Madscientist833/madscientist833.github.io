@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Innovatively engineered Frechet Video Motion Distance (FMVD), a novel metric emulating human perception, fo-
-cused on evaluating motion consistency and temporal coherence in video generation'
+cused on evaluating motion consistency and temporal coherence in video generation<br/><img src='/images/500x300.png'>'
 date: 2024-06-23
 venue: 'CVL Workshop at ICML’24'
 paperurl: 'https://arxiv.org/pdf/2407.16124'
