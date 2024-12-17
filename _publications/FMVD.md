@@ -2,7 +2,7 @@
 title: "Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-4FMVD
 excerpt: "Innovatively engineered Frechet Video Motion Distance (FMVD), a novel metric emulating human perception, fo-
 cused on evaluating motion consistency and temporal coherence in video generation<br/><img src='/images/FMVD.png'>"
 date: 2024-06-23
